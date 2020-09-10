@@ -22,7 +22,7 @@ int main(void) {
   if (grade < 87.0 && grade >= 83.0)
     printf("Your letter grade for CMPSC 131 is B.\n");
   if (grade < 83.0 && grade >= 80.0)
-    printf("Your letter grade for CMPSC 131 is -.\n");
+    printf("Your letter grade for CMPSC 131 is B-.\n");
   if (grade < 80.0 && grade >= 77.0)
     printf("Your letter grade for CMPSC 131 is C+.\n");
   if (grade < 77.0 && grade >= 70.0)
