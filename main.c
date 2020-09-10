@@ -30,6 +30,6 @@ int main(void) {
   if (grade < 70.0 && grade >= 60.0)
     printf("Your letter grade for CMPSC 131 is D.");
   if (grade < 60.0)
-    printf("Your letter grade for CMPSC 131 is F.");
+    printf("Your Letter grade for CMPSC 131 is F.");
   return 0;
 }
